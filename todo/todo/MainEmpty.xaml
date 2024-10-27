@@ -1,0 +1,21 @@
+﻿<Window x:Class="todo.MainEmpty"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:todo"
+        mc:Ignorable="d"
+        Title="MainEmpty" Height="600" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid Width="800" Height="600">
+        <Image HorizontalAlignment="Left" Height="76" VerticalAlignment="Top" Width="76" Source="/avatar.png" Margin="10,10,0,0"/>
+        <Label Content="Добро пожаловать!"  FontSize="36" Margin="111,142,353,379" Height="63" Width="336"/>
+        <Label Content="Создайте свою первую &#xD;&#xA;задачу!"  FontSize="36" Margin="111,224,285,255" Width="404" Height="105"/>
+        <Button Background="#FFF96060" BorderBrush="#FFF96060" Foreground="White" Content="Создать первую задачу" FontSize="18" Margin="281,419,281,119" Width="238" Height="46">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5, 5, 5, 5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+    </Grid>
+</Window>
