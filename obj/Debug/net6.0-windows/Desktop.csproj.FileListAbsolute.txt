@@ -1,0 +1,56 @@
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\bin\Debug\net6.0-windows\Desktop.exe
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\bin\Debug\net6.0-windows\Desktop.deps.json
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\bin\Debug\net6.0-windows\Desktop.runtimeconfig.json
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\bin\Debug\net6.0-windows\Desktop.dll
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\bin\Debug\net6.0-windows\Desktop.pdb
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\bin\Debug\net6.0-windows\Todo.Entities.dll
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\bin\Debug\net6.0-windows\Todo.Entities.pdb
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.AssemblyReference.cache
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\Log In.g.cs
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\Maim empty.g.cs
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\Reg.g.cs
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\Desktop_MarkupCompile.cache
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\Desktop_MarkupCompile.lref
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\Log In.baml
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\Maim empty.baml
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\Reg.baml
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\Desktop.g.resources
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\Desktop.AssemblyInfoInputs.cache
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\Desktop.AssemblyInfo.cs
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.Up2Date
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\Desktop.dll
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\refint\Desktop.dll
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\Desktop.pdb
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\Desktop.genruntimeconfig.cache
+C:\Users\Mihai\OneDrive\Desktop\ЛБ3 Дыров\Desktop\obj\Debug\net6.0-windows\ref\Desktop.dll
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\bin\Debug\net6.0-windows\Desktop.exe
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\bin\Debug\net6.0-windows\Desktop.deps.json
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\bin\Debug\net6.0-windows\Desktop.runtimeconfig.json
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\bin\Debug\net6.0-windows\Desktop.dll
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\bin\Debug\net6.0-windows\Desktop.pdb
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\bin\Debug\net6.0-windows\Todo.Entities.dll
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\bin\Debug\net6.0-windows\Todo.Entities.pdb
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.AssemblyReference.cache
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\Log In.g.cs
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\Maim empty.g.cs
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\Reg.g.cs
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\Desktop_MarkupCompile.cache
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\Desktop_MarkupCompile.lref
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\Log In.baml
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\Maim empty.baml
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\Reg.baml
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\Desktop.g.resources
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\Desktop.AssemblyInfoInputs.cache
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\Desktop.AssemblyInfo.cs
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.CopyComplete
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\Desktop.dll
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\refint\Desktop.dll
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\Desktop.pdb
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\Desktop.genruntimeconfig.cache
+C:\Users\3457862348975\Desktop\ЛБ3 Волкова\Desktop\obj\Debug\net6.0-windows\ref\Desktop.dll

@@ -1,0 +1,90 @@
+﻿<Window x:Class="Desktop.Reg"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Desktop"
+        mc:Ignorable="d"
+        Title="Reg" Height="600" Width="800" MinHeight="600" MinWidth="800" WindowStartupLocation="CenterScreen">
+    <Grid Height="600" Width="800"  Background="White">
+        <Image Height="132" Margin="40,40,620,0" VerticalAlignment="Top" Source="/images/logo.png"/>
+        <Label Content="Welcome back" HorizontalAlignment="Left" VerticalAlignment="Top" Width="300" Height="50" FontSize="36" Margin="426,42,0,0"/>
+        <Label Content="Имя пользователя" FontSize="22" Margin="426,100,173,457"/>
+
+        <TextBox Name="NameUser"
+   Text="Введите имя пользователя"
+   TextWrapping="Wrap"
+   BorderThickness="0,0,0,1"
+   Opacity="1"
+   FontSize="16"
+   Foreground="Gray"
+   VerticalAlignment="Top"
+   HorizontalAlignment="Left"
+   Width="300"
+   GotFocus="NameUser_GotFocus"
+   LostFocus="NameUser_LostFocus" Margin="431,148,0,0"/>
+
+
+
+        <Label Content="Пароль" FontSize="22" Margin="426,253,195,309"/>
+
+        <TextBox Name="ParolUser"
+   Text="Введите пароль"
+   TextWrapping="Wrap"
+   BorderThickness="0,0,0,1"
+   Opacity="1"
+   FontSize="16"
+   Foreground="Gray"
+   VerticalAlignment="Top"
+   HorizontalAlignment="Left"
+   Width="304"
+   GotFocus="ParolUser_GotFocus"
+   LostFocus="ParolUser_LostFocus" Margin="427,306,0,0"/>
+
+        <Label Content="Повторите пароль" FontSize="22" Margin="426,331,173,231"/>
+        <Button Margin="431,472,69,88" Background="#FFF96060" BorderBrush="#FFF96060" Foreground="White" Content="Назад" Width="300" Height="40" FontSize="16" Click="Button_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5, 5, 20, 20"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button Margin="431,426,69,134" Background="#FFF96060" BorderBrush="#FFF96060" Foreground="White" Content="Зарегистрироваться" Width="300" Height="40" FontSize="16" Click="Button_Click_1">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="20, 20, 5, 5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <TextBox x:Name="Parol2User"
+   Text="Повторите пароль"
+   TextWrapping="Wrap"
+   BorderThickness="0,0,0,1"
+   Opacity="1"
+   FontSize="16"
+   Foreground="Gray"
+   VerticalAlignment="Top"
+   HorizontalAlignment="Left"
+   Width="300"
+   GotFocus="Parol2User_GotFocus"
+   LostFocus="Parol2User_LostFocus"
+   Margin="431,374,0,0"/>
+
+
+        <TextBox x:Name="EmailUser"
+      Text="exam@yandex.ru"
+      TextWrapping="Wrap"
+      BorderThickness="0,0,0,1"
+      Opacity="1"
+      FontSize="16"
+      Foreground="Gray"
+      VerticalAlignment="Top"
+      HorizontalAlignment="Left"
+      Width="300"
+      GotFocus="EmailUser_GotFocus"
+      LostFocus="EmailUser_LostFocus"
+      Margin="431,226,0,0"/>
+        <Label Content="Почта" FontSize="22" Margin="427,183,194,379"/>
+
+    </Grid>
+</Window>
